@@ -1,0 +1,1 @@
+C:\Users\dokpin\source\repos\yolov4_inference\x64\Release\yolov4_inference.exe
